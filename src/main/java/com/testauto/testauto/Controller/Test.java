@@ -14,6 +14,6 @@ import javax.annotation.Resource;
 public class Test {
     @RequestMapping("/hello")
     public String hello(){
-        return "Hello World!";
+        return "Hello World1!";
     }
 }
